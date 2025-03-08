@@ -15,7 +15,7 @@ code and code along!
 
 ## useRef and Ref Variables
 
-The `useRef` hook gives us a way to capture a **reference** to values that are
+The `useRef` hook gives us way to capture a **reference** to values that are
 accessible across multiple renders of our component. In some ways, it's similar
 to the `useState` hook: the `useState` hook also lets us keep track of values
 across multiple renders of our component, like this:
